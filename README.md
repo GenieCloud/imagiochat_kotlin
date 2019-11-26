@@ -7,6 +7,18 @@ ImagioChat is an intelligent social media platform for the world.
 ## Current Features
 * This mobile app is being developed using Kotlin for functionality and Android XML for user interface design.
 * Please refer to the android-dev-challenge documentation with the repository in order to learn more.
+## Future Features to be supported
+* Group Messaging
+* Video Calling
+* Improving the User Authentication and Registration to support Google Sign In, Twitter Sign In
+and Facebook Sign In.
+* Emojis and Keyboard Management
+* An improved Chat UI that supports document attachments, payment transactions, GIFs, Camera,
+Gallery, Audio, Location and Contact Sharing, Games, Music and support to message
+transmission prompts based on user’s word choice.
+* Settings interface, User Profile, and Push Notifications
+* User Feed and Stories
+* Password and Security Features
 
 ImagioChat currently supports user login with an email and password using Google Firebase.
 ![ImagioChat Login Screen](https://github.com/GenieCloud/imagiochat_kotlin/blob/master/imagiochat-signin-screen.png)
