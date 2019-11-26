@@ -3,7 +3,7 @@
 ![ImagioChat Logo](https://github.com/GenieCloud/imagiochat_kotlin/blob/master/imagiochat_logo_mdpi.png)
 
 # imagiochat_kotlin
-ImagioChat is an intelligent social media platform for the world. Using Machine Learning, ImagioChat intelligently moniters user chat messages and actions to give suggestions based on what the conversation is about. For example, a user is chatting with another user about a product or services they recommend. Machine Learning can help suggest products and services to both users and the users can decided to accept or reject the recommendations without completely interrupting the chat conversation by simply displaying a prompt within the chat interface using a Sheet:bottom to allow the users to accept or reject the recommendation.
+ImagioChat is an intelligent social media platform for the world. Using Machine Learning, ImagioChat intelligently monitors user chat messages and actions to give suggestions based on what the conversation is about. For example, a user is chatting with another user about a product or services they recommend. Machine Learning can help suggest products and services to both users and the users can decided to accept or reject the recommendations without completely interrupting the chat conversation by simply displaying a prompt within the chat interface using a Sheet:bottom to allow the users to accept or reject the recommendation.
 ## Current Features
 * User Authentication with Email and Password using Google Firebase.
 * User to User Chat and Instant Messaging
