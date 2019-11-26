@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "927784469236",
+    "firebase_url": "https://imagiochat-kotlin.firebaseio.com",
+    "project_id": "imagiochat-kotlin",
+    "storage_bucket": "imagiochat-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927784469236:android:6fa0536e816ff948df54a1",
+        "android_client_info": {
+          "package_name": "com.imagiodevco.imagiochat_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927784469236-50vn4tvr2dgl3fn6scnqibiimlb5pf2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Q_XByMwIt9QwRp8ASuU6XjS9KdntB8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927784469236-50vn4tvr2dgl3fn6scnqibiimlb5pf2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
