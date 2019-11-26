@@ -5,6 +5,8 @@
 # imagiochat_kotlin
 ImagioChat is an intelligent social media platform for the world.
 ## Current Features
+* User Authentication with Email and Password using Google Firebase.
+* User to User Chat and Instant Messaging
 * This mobile app is being developed using Kotlin for functionality and Android XML for user interface design.
 * Please refer to the android-dev-challenge documentation with the repository in order to learn more.
 ## Future Features to be supported
