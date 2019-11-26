@@ -1,5 +1,7 @@
 #AndroidDevChallenge
 
+![ImagioChat Logo](https://github.com/GenieCloud/imagiochat_kotlin/blob/master/imagiochat_logo_mdpi.png)
+
 # imagiochat_kotlin
 ImagioChat is a social media platform for small businesses and individuals.
 
