@@ -9,6 +9,7 @@ ImagioChat supports user login and registration.
 ![ImagioChat Login Screen](https://github.com/GenieCloud/imagiochat_kotlin/blob/master/imagiochat-signin-screen.png)
 
 ImagioChat is a social media platform that currently supports a basic user to user chat service.
+![ImagioChat Chat Screen](https://github.com/GenieCloud/imagiochat_kotlin/blob/master/imagiochat-chat-screen.png)
 
 This mobile app is being developed using Kotlin for functionality and XML for user interface design.
 
