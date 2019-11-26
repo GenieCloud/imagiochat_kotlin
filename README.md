@@ -3,7 +3,7 @@
 ![ImagioChat Logo](https://github.com/GenieCloud/imagiochat_kotlin/blob/master/imagiochat_logo_mdpi.png)
 
 # imagiochat_kotlin
-ImagioChat is an intelligent social media platform for the world.
+ImagioChat is an intelligent social media platform for the world. Using Machine Learning, ImagioChat intelligently moniters user chat messages and actions in order to determine if the user is legitimate, abusive or fraudulent. This feature is intended to keep chat applications and well as the app content safe, engaging and transparent for all users.
 ## Current Features
 * User Authentication with Email and Password using Google Firebase.
 * User to User Chat and Instant Messaging
