@@ -5,7 +5,7 @@
 # imagiochat_kotlin
 ImagioChat is an intelligent social media platform for the world. Using Machine Learning, ImagioChat intelligently monitors user authentication using Firebase Auth and the Real-Time Database, user chat messages and actions to give product and service recommendations based on what the conversation is about. For example, a user is chatting with another user about a product or services they recommend. Machine Learning can help suggest products and services to both users and the users can decided to accept or reject the recommendations without completely interrupting the chat conversation by simply displaying a prompt within the chat interface using a Sheet:bottom to allow the users to accept or reject the recommendation in a Grid format.
 
-The original .xd file is located within the Github repo for this project. A link to ImagioChat's mockup library is provided here: [ImagioChat Mockup Library](https://xd.adobe.com/view/584295da-79fd-41d4-64ca-abf2e4234598-2e73/grid) 
+The original .xd file is located within the design-assets folder located in the Github repo for this project. A link to ImagioChat's mockup library is provided here: [ImagioChat Mockup Library](https://xd.adobe.com/view/584295da-79fd-41d4-64ca-abf2e4234598-2e73/grid) 
 
 The password is: AndroidDev2020
 
