@@ -22,7 +22,8 @@ class LoginActivity: AppCompatActivity() {
         }
 
         register_now_textView.setOnClickListener {
-            finish()
+            val intent = Intent(this, RegisterActivity::class.java)
+            startActivity(intent)
         }
     }
 
