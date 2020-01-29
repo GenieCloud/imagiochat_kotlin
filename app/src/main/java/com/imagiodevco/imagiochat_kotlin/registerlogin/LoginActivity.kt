@@ -4,17 +4,19 @@ import android.content.Intent
 import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
+import androidx.appcompat.app.ActionBar
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.auth.FirebaseAuth
 import com.imagiodevco.imagiochat_kotlin.R
 import com.imagiodevco.imagiochat_kotlin.messages.LatestMessageActivity
 import kotlinx.android.synthetic.main.activity_login.*
+import com.facebook.FacebookSdk
+import com.facebook.appevents.AppEventsLogger
 
 // SubClass with LoginActivity and compatibility class.
 class LoginActivity: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
         setContentView(R.layout.activity_login)
 
         login_button_login.setOnClickListener {
