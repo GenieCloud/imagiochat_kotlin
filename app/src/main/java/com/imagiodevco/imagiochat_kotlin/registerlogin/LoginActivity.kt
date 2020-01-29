@@ -6,6 +6,7 @@ import android.util.Log
 import android.widget.Toast
 import androidx.appcompat.app.ActionBar
 import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.widget.Toolbar
 import com.google.firebase.auth.FirebaseAuth
 import com.imagiodevco.imagiochat_kotlin.R
 import com.imagiodevco.imagiochat_kotlin.messages.LatestMessageActivity
@@ -36,6 +37,7 @@ class LoginActivity: AppCompatActivity() {
         if (email.isEmpty() || password.isEmpty()) {
             Toast.makeText(this, "Please fill out email/pw.", Toast.LENGTH_SHORT).show()
                 return
+
         }
 
         FirebaseAuth.getInstance().signInWithEmailAndPassword(email, password)
